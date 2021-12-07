@@ -1,2 +1,2 @@
 # kozmetiksite
- kozmetik ürünleri tanıtıldığı site
+ kozmetik ürünlerinin tanıtıldığı frontend bir site
