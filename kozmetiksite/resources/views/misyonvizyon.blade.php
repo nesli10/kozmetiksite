@@ -1,0 +1,28 @@
+<!-- https://www.lorisparfum.com/contents/marka-hikayesi/2 -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/header.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="css/footer.css" rel="stylesheet" type="text/css" media="all" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <title>misyon-vizyon</title>
+</head>
+<body >
+    @include("header")
+    <h2>vizyonumuz:</h2> <br>
+    <p>
+    Kullanıcı mutluluğunu sağlayan ürünlerle Türkiye'de Lider ve Dünyada en çok tercih edilen yerel marka olmak. <br>
+    </p>  <br>
+     <h2>misyonumuz:</h2> <br>
+     <p>
+     Tüketicilerimize sağlıklı, kolay ulaşılabilir ve kaliteli ürünleri yüksek hizmet anlayışı ile uygun fiyata sunmak. <br>
+     Çalışanlarımızla fikir özgürlüğü, prensipli ve özgün çalışma kriterleriyle birbirimizin deneyimlerinden faydalanarak ekip çalışmasını etkin kılmak. <br>
+      Distribütörler ve bayilerle geniş bir pazarlama ağı kurarak, paydaşlarımıza yüksek fayda sağlamak.
+     </p><br><br><br><br><br><br><br><br><br>
+    @include("footer")
+</body>
+</html>
